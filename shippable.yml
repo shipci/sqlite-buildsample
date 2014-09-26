@@ -6,6 +6,7 @@ install: pip install --use-mirrors -r requirements.txt
 
 script:
   - python sqliteSample.py
+  
 branches:
   except:
     - master
