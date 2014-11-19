@@ -1,7 +1,8 @@
 python:
   - "2.7"
+  - "2.6"
+  
 language: python
-
 
 install: pip install --use-mirrors -r requirements.txt
 
